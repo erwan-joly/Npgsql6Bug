@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InMemoryEf6", "InMemoryEf6\InMemoryEf6.csproj", "{A0C315A5-6464-49E1-AC5E-5A381809CDE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryEf5", "InMemoryEf5\InMemoryEf5.csproj", "{6A0B53E0-0F9D-4EFA-BEE3-88949069A7EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0C315A5-6464-49E1-AC5E-5A381809CDE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C315A5-6464-49E1-AC5E-5A381809CDE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C315A5-6464-49E1-AC5E-5A381809CDE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C315A5-6464-49E1-AC5E-5A381809CDE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A0B53E0-0F9D-4EFA-BEE3-88949069A7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0B53E0-0F9D-4EFA-BEE3-88949069A7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A0B53E0-0F9D-4EFA-BEE3-88949069A7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A0B53E0-0F9D-4EFA-BEE3-88949069A7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB573A13-48B1-46F2-B6D7-645B266012FF}
+	EndGlobalSection
+EndGlobal
